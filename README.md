@@ -1,6 +1,7 @@
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
+[![Follows][follows-shield]][follows-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
@@ -194,6 +195,8 @@ Email: vladstefandieaconu at gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[follows-shield]: https://img.shields.io/github/followers/vladstefandieaconu?label=Follow&style=for-the-badge
+[follows-url]: https://github.com/VladStefanDieaconu?tab=followers
 [forks-shield]: https://img.shields.io/github/forks/VladStefanDieaconu/repo_name.svg?style=for-the-badge
 [forks-url]: https://github.com/VladStefanDieaconu/repo_name/network/members
 [stars-shield]: https://img.shields.io/github/stars/VladStefanDieaconu/repo_name.svg?style=for-the-badge
