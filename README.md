@@ -22,47 +22,65 @@
     <br />
     <a href="https://github.com/VladStefanDieaconu/repo_name"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/VladStefanDieaconu/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/VladStefanDieaconu/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/VladStefanDieaconu/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+[comment]: <> (<!-- TABLE OF CONTENTS -->)
+
+[comment]: <> (<details>)
+
+[comment]: <> (  <summary>Table of Contents</summary>)
+
+[comment]: <> (  <ol>)
+
+[comment]: <> (    <li>)
+
+[comment]: <> (      <a href="#about-the-project">About The Project</a>)
+
+[comment]: <> (      <ul>)
+
+[comment]: <> (        <li><a href="#built-with">Built With</a></li>)
+
+[comment]: <> (      </ul>)
+
+[comment]: <> (    </li>)
+
+[comment]: <> (    <li>)
+
+[comment]: <> (      <a href="#getting-started">Getting Started</a>)
+
+[comment]: <> (      <ul>)
+
+[comment]: <> (        <li><a href="#prerequisites">Prerequisites</a></li>)
+
+[comment]: <> (        <li><a href="#installation">Installation</a></li>)
+
+[comment]: <> (      </ul>)
+
+[comment]: <> (    </li>)
+
+[comment]: <> (    <li><a href="#usage">Usage</a></li>)
+
+[comment]: <> (    <li><a href="#roadmap">Roadmap</a></li>)
+
+[comment]: <> (    <li><a href="#contributing">Contributing</a></li>)
+
+[comment]: <> (    <li><a href="#license">License</a></li>)
+
+[comment]: <> (    <li><a href="#contact">Contact</a></li>)
+
+[comment]: <> (    <li><a href="#acknowledgments">Acknowledgments</a></li>)
+
+[comment]: <> (  </ol>)
+
+[comment]: <> (</details>)
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Description :ok_hand:
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -72,7 +90,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-### Built With
+### Built With :point_down:
 
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
@@ -88,12 +106,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started :wave:
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites :metal:
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -101,7 +119,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Installation :metal:
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -122,7 +140,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Usage :fist:
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -132,40 +150,50 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+[comment]: <> (<!-- ROADMAP -->)
 
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
+[comment]: <> (## Roadmap :raised_hands:)
 
-See the [open issues](https://github.com/VladStefanDieaconu/repo_name/issues) for a full list of proposed features (and known issues).
+[comment]: <> (- [] Feature 1)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+[comment]: <> (- [] Feature 2)
+
+[comment]: <> (- [] Feature 3)
+
+[comment]: <> (    - [] Nested Feature)
+
+[comment]: <> (See the [open issues]&#40;https://github.com/VladStefanDieaconu/repo_name/issues&#41; for a full list of proposed features &#40;and known issues&#41;.)
+
+[comment]: <> (<p align="right">&#40;<a href="#top">back to top</a>&#41;</p>)
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
+[comment]: <> (<!-- CONTRIBUTING -->)
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+[comment]: <> (## Contributing)
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+[comment]: <> (Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.)
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+[comment]: <> (If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+[comment]: <> (Don't forget to give the project a star! Thanks again!)
+
+[comment]: <> (1. Fork the Project)
+
+[comment]: <> (2. Create your Feature Branch &#40;`git checkout -b feature/AmazingFeature`&#41;)
+
+[comment]: <> (3. Commit your Changes &#40;`git commit -m 'Add some AmazingFeature'`&#41;)
+
+[comment]: <> (4. Push to the Branch &#40;`git push origin feature/AmazingFeature`&#41;)
+
+[comment]: <> (5. Open a Pull Request)
+
+[comment]: <> (<p align="right">&#40;<a href="#top">back to top</a>&#41;</p>)
 
 
 
 <!-- LICENSE -->
-## License
+## License :facepunch:
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -174,7 +202,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Contact :wave:
 
 Email: vladstefandieaconu at gmail.com
 
@@ -183,7 +211,7 @@ Email: vladstefandieaconu at gmail.com
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Acknowledgments :clap:
 
 * []()
 * []()
